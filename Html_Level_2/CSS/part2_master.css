@@ -1,0 +1,22 @@
+/* body{
+  background-color: gray;
+}
+div{
+background-color: blue;
+
+} */
+body{
+  background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsQUHJYV89oj1taN1XThLAx0OzXgsj3eON6eOH5qTB3O1aCRto);
+  background-repeat: no-repeat;}
+div{
+background: red;
+border-color: blue;
+border-width: 2px;
+border-style: double;
+}
+p{
+  color: pink
+}
+span{
+  background: blue
+}
